@@ -1,0 +1,3 @@
+[submodule "firefox/data/zilla"]
+	path = firefox/data/zilla
+	url = git@github.com:DaddyzillaBitch/File-Provider-Storage-2.git
