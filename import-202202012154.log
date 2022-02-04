@@ -1,0 +1,4 @@
+{"crashreporter_key":"d466559c152b01ce8581227e07f2122ceb426d4a","bug_type":"211","timestamp":"2022-01-25 18:04:06.00 -0600","os_version":"iPhone OS 15.2.1 (19C63)","incident_id":"91FA70B3-C386-40AA-B7BD-4C201E873D66"}
+{"_marker":"<metadata>","_preferredUserInterfaceLanguage":"en-US","_userInterfaceLanguage":"en","_userSetRegionFormat":"US","basebandChipset":"ice19","basebandFirmwareVersion":"3.01.02","configUuid":"e51b159e-7a14-47d4-84cd-23cfe274c4f7","currentCountry":"<unknown>","deviceCapacity":64,"homeCarrierCountry":"<unknown>","homeCarrierName":"<unknown>","isDualSim":false,"servingCarrierName":"<unknown>","startTimestamp":"2022-01-25T02:55:55Z","trialExperiments":"0","trialRollouts":"3-10","version":"2.2"}
+{"message":{"BogusFieldNotActuallyEverUsed":null,"Count":10,"daily_total_BogusMeasureNotActuallyEverUsed":null},"name":"StabilityHeartBeatCount5","sampling":100,"uuid":"3c8f638f-d492-465e-9e27-546a163beac9_2"}
+{"_marker":"<end-of-file>"}
